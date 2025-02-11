@@ -1,8 +1,11 @@
 ## Contentful CMS - React Fundamental Project 17
 
+<img width="1081" alt="Screenshot 2025-02-11 at 23 33 55" src="https://github.com/user-attachments/assets/275091bb-aaf4-40e4-82a3-c16514273c54" />
+<img width="1171" alt="Screenshot 2025-02-11 at 23 34 11" src="https://github.com/user-attachments/assets/5b54a0d5-1b21-4b52-9244-d6246e19bc74" />
+
 This project demonstrates the integration of Contentful CMS with a React application. It includes a Hero section and a Projects section that fetches and displays data from Contentful.
 
-**Online Live:**
+**Online Live:** https://contentful-cms-arnob.netlify.app/
 
 ### Installation and Setup
 
